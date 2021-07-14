@@ -22,6 +22,8 @@
 
         $mail = mail($correo, "CORREO ENVIADO DESDE PHP", "CORREO ENVIADO DESDE PHP", $header);
 
+        echo "siiii"
+
 
     ?>
 </body>
